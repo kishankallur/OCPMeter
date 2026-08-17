@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "kicaddddd.kicad_pro",
+    "filename": "ocp.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -526,6 +526,7 @@
       "netlist": "",
       "plot": "Gerber",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -651,18 +652,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "kicaddddd.kicad_sch",
-        "name": "kicaddddd",
+        "filename": "ocp.kicad_sch",
+        "name": "ocp",
         "uuid": "e6e8fc66-ad6c-42eb-8ba4-37b895f6ea98"
       }
     ],
-    "used_designators": "R1-2,#FLG1,J1-3,U1-3,#PWR1-16,H1-4,C1-2",
+    "used_designators": "R1-5,R18-19,#FLG1-2,J1-4,J6,F1,U1-4,#PWR1-20,H1-4,C1-3",
     "variants": []
   },
   "sheets": [
     [
       "e6e8fc66-ad6c-42eb-8ba4-37b895f6ea98",
-      "kicaddddd"
+      "ocp"
     ]
   ],
   "text_variables": {},

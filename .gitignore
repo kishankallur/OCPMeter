@@ -1,0 +1,9 @@
+.DS_Store
+bin/
+*.FCBak
+*-backups/
+
+.vscode/
+.vs/
+.idea/
+
