@@ -1,0 +1,8 @@
+Sl No.,Designator,Description,Qty,MPN,DNP,Footprint,Value
+1,"C1,C3,C4",Ceramic Capacitor X5R 16V +/-10%,3,CL05A105KO5NNNC,,Capacitor_SMD:C_0402_1005Metric,1u
+2,C2,Ceramic Capacitor X5R 25V +/-10%,1,CC0603KRX5R8BB225,,Capacitor_SMD:C_0603_1608Metric,2.2u
+3,F1,PTC Resettable Fuse 13.2V 1206 SMD,1,1206L075/13.2WR,,Fuse:Fuse_1206_3216Metric,0.75A
+4,"R1,R2",Chip Resistor +/-1% 1/16W,2,0402WGF5101TCE,,Resistor_SMD:R_0402_1005Metric,5.1k
+5,"R4,R5",Chip Resistor +/-0.1% Thin Film,2,TR0603B10K0P0525Z,,Resistor_SMD:R_0603_1608Metric,10k 0.1%
+6,U1,Charge Pump Voltage Inverter 60mA SOT-23-5,1,TPS60403DBVR,,Package_TO_SOT_SMD:SOT-23-5,TPS60403DBV
+7,U4,Dual Rail-to-Rail Op-Amp TSSOP-8,1,TLV9062IDGKR,,Package_SO:TSSOP-8_4.4x3mm_P0.65mm,TLV9062

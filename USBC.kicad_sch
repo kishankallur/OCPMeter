@@ -2273,7 +2273,7 @@
 				)
 			)
 		)
-		(property "Value" "0.35A"
+		(property "Value" "0.75A"
 			(at 157.48 63.5 90)
 			(show_name no)
 			(do_not_autoplace no)

@@ -69,7 +69,13 @@
           "thermal_relief_spoke_width": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -203,7 +209,10 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        0.4
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -230,7 +239,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -599,12 +613,24 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -657,7 +683,7 @@
         "uuid": "e6e8fc66-ad6c-42eb-8ba4-37b895f6ea98"
       }
     ],
-    "used_designators": "J1-6,#FLG1-2,R1-5,R18-19,F1,U1-4,#PWR1-20,H1-4,C1-3",
+    "used_designators": "J1-6,#FLG1-2,R1-5,R18-19,F1,U1-4,#PWR1-20,H1-4,C1-4",
     "variants": []
   },
   "sheets": [

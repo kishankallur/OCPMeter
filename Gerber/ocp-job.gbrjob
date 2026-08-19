@@ -3,23 +3,23 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "10.0.4"
+      "Version": "10.0.5-10.0.5~ubuntu24.04.1"
     },
-    "CreationDate": "2026-07-31T12:07:47+05:30"
+    "CreationDate": "2026-08-19T18:09:32+05:30"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "kicaddddd",
-      "GUID": "6b696361-6464-4646-9464-2e6b69636164",
+      "Name": "ocp",
+      "GUID": "6f63702e-6b69-4636-9164-5f7063625858",
       "Revision": "rev?"
     },
     "Size": {
-      "X": 54.05,
-      "Y": 54.05
+      "X": 53.05,
+      "Y": 62.05
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
-    "Finish": "None"
+    "Finish": "HAL SnPb"
   },
   "DesignRules": [
     {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "kicaddddd-F_Cu.gbr",
+      "Path": "ocp-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "kicaddddd-B_Cu.gbr",
+      "Path": "ocp-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "kicaddddd-F_Paste.gbr",
+      "Path": "ocp-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "kicaddddd-B_Paste.gbr",
+      "Path": "ocp-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "kicaddddd-F_Silkscreen.gbr",
+      "Path": "ocp-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "kicaddddd-B_Silkscreen.gbr",
+      "Path": "ocp-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "kicaddddd-F_Mask.gbr",
+      "Path": "ocp-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "kicaddddd-B_Mask.gbr",
+      "Path": "ocp-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "kicaddddd-Edge_Cuts.gbr",
+      "Path": "ocp-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
