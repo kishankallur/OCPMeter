@@ -148,7 +148,7 @@
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
-        "min_resolved_spokes": 2,
+        "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
@@ -657,7 +657,7 @@
         "uuid": "e6e8fc66-ad6c-42eb-8ba4-37b895f6ea98"
       }
     ],
-    "used_designators": "R1-5,R18-19,#FLG1-2,J1-6,F1,U1-4,#PWR1-20,H1-4,C1-3",
+    "used_designators": "J1-6,#FLG1-2,R1-5,R18-19,F1,U1-4,#PWR1-20,H1-4,C1-3",
     "variants": []
   },
   "sheets": [
