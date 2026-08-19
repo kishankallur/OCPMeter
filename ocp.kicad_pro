@@ -240,7 +240,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "v2.0"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -657,13 +657,17 @@
         "uuid": "e6e8fc66-ad6c-42eb-8ba4-37b895f6ea98"
       }
     ],
-    "used_designators": "R1-5,R18-19,#FLG1-2,J1-4,J6,F1,U1-4,#PWR1-20,H1-4,C1-3",
+    "used_designators": "R1-5,R18-19,#FLG1-2,J1-6,F1,U1-4,#PWR1-20,H1-4,C1-3",
     "variants": []
   },
   "sheets": [
     [
       "e6e8fc66-ad6c-42eb-8ba4-37b895f6ea98",
       "ocp"
+    ],
+    [
+      "5c7a7ed0-d584-4fed-9e92-909791038ebb",
+      "USBC"
     ]
   ],
   "text_variables": {},
