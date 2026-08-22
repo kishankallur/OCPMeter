@@ -2,6 +2,7 @@
 bin/
 *.FCBak
 *-backups/
+.history/
 
 .vscode/
 .vs/
